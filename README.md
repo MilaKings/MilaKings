@@ -9,7 +9,6 @@ Mas também pode me chamar de Camila (mentira, pode não). Tenho 30 anos, sou de
 <br>
 
 ## <img src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_222_ms.gif?raw=true"/> <sup>Sobre mim</sup>
-
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -25,16 +24,16 @@ Mas também pode me chamar de Camila (mentira, pode não). Tenho 30 anos, sou de
 <img  width="25px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_158_ms.gif?raw=true"/><sup>Sou apaixonada por Pokémon, <i>birbs</i> e lontras 🦦</sup><br>
 <img  width="25px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_446_sf.gif?raw=true"/><sup>Meus hobbies são jogar video game, ler mangá e assistir animes</sup><br>
 
-## <img width="55px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_249_mf.gif?raw=true"/> <sup>Onde me encontrar</sup>
-<div>
-<a href = "mailto:milareis@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/camila-dos-reis-a12663147" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/mila_kings" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-
 ## <img src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_245_ms.gif?raw=true"/> <sup>Estatísticas</sup>
 <div>
 <a href="https://github.com/MilaKings">
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilaKings&layout=compact&langs_count=7&theme=holi"/>
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=MilaKings&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+</div>
+
+## <img width="55px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_249_mf.gif?raw=true"/> <sup>Onde me encontrar</sup>
+<div>
+<a href = "mailto:milareis@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/camila-dos-reis-a12663147" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/mila_kings" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
