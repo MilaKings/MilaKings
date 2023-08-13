@@ -1,5 +1,12 @@
-### Hi there 👋
+<img align="right" width="250px"  src="https://github.com/MilaKings/MilaKings/blob/main/tumblr_ou332yQQRp1r8sc3ro2_540.gif">
 
+<div display="inline-block">
+ <h2 align="right"><img src='https://github.com/MilaKings/MilaKings/blob/main/20120804115221!Lyrawalkdown.png'/> Oi, eu sou <s>o Goku</s> a Mila Kings!&nbsp;&nbsp;&nbsp;&nbsp;</h2>
+</div>
+
+Mas também pode me chamar de Camila (mentira, pode não). Tenho 30 anos, sou de Floripa e desde criança sempre gostei de brincar com meus blogs e criando templates para eles.
+
+<br><br><br><br><br><br><br>
 <!--
 **MilaKings/MilaKings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
