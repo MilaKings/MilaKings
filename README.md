@@ -18,13 +18,12 @@ Mas também pode me chamar de Camila (mentira, pode não). Tenho 30 anos, sou de
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 
-<img  width="20px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_363_sf.gif?raw=true"/><sup>Faço parte da equipe de desenvolvimento web da <a href="https://onsign.tv">OnSign TV</a></sup><br>
-<img width="18px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_135_ms.gif?raw=true"/><sup>Já trabalhei com PHP, mas atualmente trabalho com HTML, CSS e JavaScript</sup><br>
-<img  width="20px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_079_sf.gif?raw=true"/><sup>Atualmente estudando sobre Webpack</sup><br>
-<img  width="20px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_098_sf.gif?raw=true"/><sup>Finalizando o curso de Sistemas de Informação na UFSC</sup><br>
-<img  width="20px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_158_ms.gif?raw=true"/><sup>Sou apaixonada por Pokémon, <i>birbs</i> e lontras 🦦</sup><br>
-
-<br>
+<img  width="25px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_363_sf.gif?raw=true"/><sup>Faço parte da equipe de desenvolvimento web da <a href="https://onsign.tv">OnSign TV</a></sup><br>
+<img width="23px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_135_ms.gif?raw=true"/><sup>Já trabalhei com PHP, mas atualmente trabalho com HTML, CSS e JavaScript</sup><br>
+<img  width="25px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_079_sf.gif?raw=true"/><sup>Atualmente estudando sobre Webpack</sup><br>
+<img  width="25px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_098_sf.gif?raw=true"/><sup>Finalizando o curso de Sistemas de Informação na UFSC</sup><br>
+<img  width="25px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_158_ms.gif?raw=true"/><sup>Sou apaixonada por Pokémon, <i>birbs</i> e lontras 🦦</sup><br>
+<img  width="25px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_446_sf.gif?raw=true"/><sup>Meus hobbies são jogar video game, ler mangá e assistir animes</sup><br>
 
 ## <img width="55px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_249_mf.gif?raw=true"/> <sup>Onde me encontrar</sup>
 <div>
@@ -33,9 +32,9 @@ Mas também pode me chamar de Camila (mentira, pode não). Tenho 30 anos, sou de
  <a href="https://instagram.com/mila_kings" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-##
+## <img src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_245_ms.gif?raw=true"/> <sup>Estatísticas</sup>
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/MilaKings">
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilaKings&layout=compact&langs_count=7&theme=holi"/>
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=MilaKings&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
 </div>
