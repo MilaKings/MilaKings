@@ -19,7 +19,7 @@ Mas também pode me chamar de Camila (mentira, pode não). Tenho 30 anos, sou de
 
 <img  width="25px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_363_sf.gif?raw=true"/><sup>Faço parte da equipe de desenvolvimento web da <a href="https://onsign.tv">OnSign TV</a></sup><br>
 <img width="23px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_135_ms.gif?raw=true"/><sup>Já trabalhei com PHP, mas atualmente trabalho com HTML, CSS e JavaScript</sup><br>
-<img  width="25px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_079_sf.gif?raw=true"/><sup>Atualmente estudando sobre Webpack</sup><br>
+<img  width="25px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_079_sf.gif?raw=true"/><sup>Atualmente estudando sobre Webpack e Node.js</sup><br>
 <img  width="25px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_098_sf.gif?raw=true"/><sup>Finalizando o curso de Sistemas de Informação na UFSC</sup><br>
 <img  width="25px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_158_ms.gif?raw=true"/><sup>Sou apaixonada por Pokémon, <i>birbs</i> e lontras 🦦</sup><br>
 <img  width="25px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_446_sf.gif?raw=true"/><sup>Meus hobbies são jogar video game, ler mangá e assistir animes</sup><br>
