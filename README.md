@@ -1,11 +1,18 @@
-<img align="right" width="250px"  src="https://github.com/MilaKings/MilaKings/blob/main/tumblr_ou332yQQRp1r8sc3ro2_540.gif">
+<img align="right" width="222px"  src="https://github.com/MilaKings/MilaKings/blob/main/tumblr_ou332yQQRp1r8sc3ro2_540.gif">
 
 <div display="inline-block">
  <h2 align="right"><img src='https://github.com/MilaKings/MilaKings/blob/main/20120804115221!Lyrawalkdown.png'/> Oi, eu sou <s>o Goku</s> a Mila Kings!&nbsp;&nbsp;&nbsp;&nbsp;</h2>
 </div>
 
 Mas também pode me chamar de Camila (mentira, pode não). Tenho 30 anos, sou de Floripa e desde criança sempre gostei de brincar com meus blogs e criando templates para eles.
-
+<br>Sou uma desenvolvedora web apaixonada por Pokémon, <i>birbs</i> e lontras. 🦦
+<br>
+## <img width="55px" align="bottom" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_249_mf.gif?raw=true"/> Contato
+<div>
+<a href = "mailto:milareis@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/camila-dos-reis-a12663147" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/mila_kings" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 <br><br><br><br><br><br><br>
 <!--
 **MilaKings/MilaKings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
