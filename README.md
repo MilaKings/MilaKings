@@ -28,7 +28,7 @@ Mas também pode me chamar de Camila (mentira, pode não). Tenho 30 anos, sou de
 <div>
 <a href="https://github.com/MilaKings">
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilaKings&layout=compact&langs_count=7&theme=holi"/>
-<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=MilaKings&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=MilaKings&&show_icons=true&theme=holi&count_private=true"/>
 </div>
 
 ## <img width="55px" src="https://github.com/MilaKings/MilaKings/blob/main/ani_mdrt_249_mf.gif?raw=true"/> <sup>Onde me encontrar</sup>
