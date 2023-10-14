@@ -4,7 +4,7 @@
 <h2 align="right"><img src='https://github.com/MilaKings/MilaKings/blob/main/20120804115221!Lyrawalkdown.png'/> <sup>Oi, eu sou <s>o Goku</s> a Mila Kings!</sup>&nbsp;&nbsp;&nbsp;&nbsp;</h2>
 </div>
 <div display="inline-block">
-Mas também pode me chamar de Camila (mentira, pode não). Tenho 30 anos, sou de Floripa e desde criança sempre gostei de brincar com meus blogs, criando templates para eles. 
+Mas também pode me chamar de Camila (mentira, pode não). Tenho 31 anos, sou de Floripa e desde criança sempre gostei de brincar com meus blogs, criando templates para eles. 
 </div>
 <br>
 
